@@ -1,68 +1,68 @@
-//Q1
+    //Q1
 
-// var math= new Date();
+    // var math= new Date();
 
-// document.write(math)
- //
+    // document.write(math)
+    //
 
- //Q2
-//  var date= new Date();
+    //Q2
+    //  var date= new Date();
 
-//  var month = date.getMonth()
-// console.log(month)
-//  var arr= ["January","February","March","April","May","June","July",
-//  "August","September","October","November","December"];
-// alert("Current Month : "+arr[month])
+    //  var month = date.getMonth()
+    // console.log(month)
+    //  var arr= ["January","February","March","April","May","June","July",
+    //  "August","September","October","November","December"];
+    // alert("Current Month : "+arr[month])
 
-//Q3
+    //Q3
 
-//  var dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+    //  var dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
-//  var d = new Date();
-// var display= dayNames[d.getDay()];
-// var res = display.slice(0, 3);
-// document.write("Today is "+res)
+    //  var d = new Date();
+    // var display= dayNames[d.getDay()];
+    // var res = display.slice(0, 3);
+    // document.write("Today is "+res)
 
-//Q4
-//  var dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+    //Q4
+    //  var dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
-//  var d = new Date();
-//  var day = d.getDay()
-// var display= dayNames[day];
-// if(day ==0||day==6){
-//     document.write(display+" Its Fun Day")
-// }
-// else {
-//     document.write(display+" Its Working day ;/")   
-// }
-
-
-//Q5
-// var date = new Date()
-// var day=date.getDate()
-// if(day<16){
-//     document.write("first 15  days of month")
-
-// }
-// else{
-//     document.write("Last fifteen days of the month")
-// }
+    //  var d = new Date();
+    //  var day = d.getDay()
+    // var display= dayNames[day];
+    // if(day ==0||day==6){
+    //     document.write(display+" Its Fun Day")
+    // }
+    // else {
+    //     document.write(display+" Its Working day ;/")   
+    // }
 
 
-//Q6
+    //Q5
+    // var date = new Date()
+    // var day=date.getDate()
+    // if(day<16){
+    //     document.write("first 15  days of month")
 
-// var date;
-// date=new Date();
+    // }
+    // else{
+    //     document.write("Last fifteen days of the month")
+    // }
 
-// var time=date.getTime()
-// var firstDate=new Date("januray 1 ,1970 : ").toString()
-// var time = date.getTime()
-// firstDate= firstDate.slice(0,16)+time
-// console.log(firstDate)
-// var newTime= time/(1000*60)
-// document.write("Date today : "+date)
-// document.write("</br> Elapsed Milliseconds since  : "+firstDate)
-// document.write("</br> Elapsed minutes since jan 1 , 1970 : "+newTime)
+
+    //Q6
+
+    // var date;
+    // date=new Date();
+
+    // var time=date.getTime()
+    // var firstDate=new Date("januray 1 ,1970 : ").toString()
+    // var time = date.getTime()
+    // firstDate= firstDate.slice(0,16)+time
+    // console.log(firstDate)
+    // var newTime= time/(1000*60)
+    // document.write("Date today : "+date)
+    // document.write("</br> Elapsed Milliseconds since  : "+firstDate)
+    // document.write("</br> Elapsed minutes since jan 1 , 1970 : "+newTime)
 
     //Q7
     // 0 TO 12 AM
@@ -79,3 +79,8 @@
     // }
 
 
+    //Q8
+    
+    // var month = 11; 
+    // var laterDate = new Date(2021, month + 1, 0);
+    // console.log(laterDate)
