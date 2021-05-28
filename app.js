@@ -48,3 +48,18 @@
 //     document.write("Last fifteen days of the month")
 // }
 
+
+//Q6
+
+// var date;
+// date=new Date();
+
+// var time=date.getTime()
+// var firstDate=new Date("januray 1 ,1970 : ").toString()
+// var time = date.getTime()
+// firstDate= firstDate.slice(0,16)+time
+// console.log(firstDate)
+// var newTime= time/(1000*60)
+// document.write("Date today : "+date)
+// document.write("</br> Elapsed Milliseconds since  : "+firstDate)
+// document.write("</br> Elapsed minutes since jan 1 , 1970 : "+newTime)
