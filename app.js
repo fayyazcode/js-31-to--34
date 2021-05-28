@@ -22,3 +22,16 @@
 // var display= dayNames[d.getDay()];
 // var res = display.slice(0, 3);
 // document.write("Today is "+res)
+
+//Q4
+//  var dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+
+//  var d = new Date();
+//  var day = d.getDay()
+// var display= dayNames[day];
+// if(day ==0||day==6){
+//     document.write(display+" Its Fun Day")
+// }
+// else {
+//     document.write(display+" Its Working day ;/")   
+// }
