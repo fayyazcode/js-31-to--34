@@ -84,3 +84,31 @@
     // var month = 11; 
     // var laterDate = new Date(2021, month + 1, 0);
     // console.log(laterDate)
+
+    //Q9
+
+    // var date= new Date();
+
+    // var ramadanDate= new Date("may 12,2021");
+
+    // var date = new Date(ramadanDate)
+    // var today = new Date();
+
+    // var diff = today.getTime() - date.getTime();
+
+    // var days= diff / (1000 * 60 * 60 * 24 );
+   
+    // console.log(Math.floor(days));
+    // document.write(Math.floor(days)+" Days have passed since RAMADAN, 2021")
+
+
+    //Q10 
+    // var date= new Date();
+
+    // var newDate= new Date("jan 1,2015");
+    // var last=new Date(newDate);
+    // var today = new Date();
+    // var differ= today.getTime()-last.getTime();
+    // var secPassed=(differ/1000);
+    // console.log(secPassed)
+    // document.write(Math.floor(secPassed)+" Seconds Passed since jan 1, 2015")
