@@ -63,3 +63,19 @@
 // document.write("Date today : "+date)
 // document.write("</br> Elapsed Milliseconds since  : "+firstDate)
 // document.write("</br> Elapsed minutes since jan 1 , 1970 : "+newTime)
+
+    //Q7
+    // 0 TO 12 AM
+    // 13 TO 23 PM
+    // var date= new Date();
+
+    // var hours=date.getHours()
+    // console.log(hours)
+    // if(hours>=12){
+    //     document.write("<h3>Its AM</h3>")
+    // }
+    // else{
+    //     document.write("<h3>Its PM</h3>")
+    // }
+
+
