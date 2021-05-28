@@ -118,3 +118,9 @@
     // current.setHours(current.getHours()-1);
     // document.write("<h3>","1 hour ago, it was "+current+ "</h3>");
 
+    // Q # 12
+
+// var current = new Date();
+// document.write("<h3>","Current Year "+current+ "</h3>");
+// current.setFullYear(current.getFullYear()-100);
+// document.write("<h3>","100 years ago, it was "+current+ "</h3>");
