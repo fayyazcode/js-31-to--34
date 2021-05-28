@@ -133,3 +133,21 @@
 // document.write("<h3>","Your age is "+user+ "</h3>");
 // document.write("<h3>","Your birth year is "+x+ "</h3>");
 
+// Q # 14
+// var cust = "ABC";
+// var month= "February";
+// var unitUse= 410;
+// var chargeUnit=16;
+// var surCharge = 350;
+// var netAmount = unitUse * chargeUnit;
+// var grossAmount = netAmount + surCharge;
+
+// document.write("<h1>","K-Electric Bill "+ "</h1>");
+// document.write("<h3>","Customer Name : "+cust+ "</h3>");
+// document.write("<h3>","Month : "+month+ "</h3>");
+// document.write("<h3>","Number of Units : "+unitUse+ "</h3>");
+// document.write("<h3>","Charges per unit : "+chargeUnit+ "</h3>");
+// document.write("<h3>"+"  "+"</h3>");
+// document.write("<h3>","Net Amount Payble (within Due Date) : "+netAmount+ "</h3>");
+// document.write("<h3>"+"Late payment surcharge : "+surCharge+"</h3>");
+// document.write("<h3>","Gross Amount Payble (after Due Date) : "+grossAmount+ "</h3>");
