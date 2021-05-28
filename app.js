@@ -124,3 +124,12 @@
 // document.write("<h3>","Current Year "+current+ "</h3>");
 // current.setFullYear(current.getFullYear()-100);
 // document.write("<h3>","100 years ago, it was "+current+ "</h3>");
+
+// Q # 13
+
+// var user = +prompt("Enter Your Age");
+// var abc = new Date().getFullYear();
+// var x = abc-user;
+// document.write("<h3>","Your age is "+user+ "</h3>");
+// document.write("<h3>","Your birth year is "+x+ "</h3>");
+
