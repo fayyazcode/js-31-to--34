@@ -112,3 +112,9 @@
     // var secPassed=(differ/1000);
     // console.log(secPassed)
     // document.write(Math.floor(secPassed)+" Seconds Passed since jan 1, 2015")
+  //Q 11  
+    // var current = new Date();
+    // document.write("<h3>","Current Date "+current+ "</h3>");
+    // current.setHours(current.getHours()-1);
+    // document.write("<h3>","1 hour ago, it was "+current+ "</h3>");
+
