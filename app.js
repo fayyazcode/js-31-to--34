@@ -35,3 +35,16 @@
 // else {
 //     document.write(display+" Its Working day ;/")   
 // }
+
+
+//Q5
+// var date = new Date()
+// var day=date.getDate()
+// if(day<16){
+//     document.write("first 15  days of month")
+
+// }
+// else{
+//     document.write("Last fifteen days of the month")
+// }
+
